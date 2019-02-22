@@ -1,10 +1,10 @@
 import React from "react";
-import Dashboard from "./components/Dashboard.js"
+import Pricing from "./components/Pricing.js"
 
 class App extends React.Component {
   render() {
     return (
-      <pricing />
+      <Pricing />
     )
   }
 }
