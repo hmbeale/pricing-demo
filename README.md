@@ -1,2 +1,2 @@
-# demo-dashboard
-test update
+# pricing-demo
+A pricing interface, written with React.
